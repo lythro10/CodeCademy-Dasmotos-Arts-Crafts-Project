@@ -1,0 +1,132 @@
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+menu,
+nav,
+output,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+}
+html {
+  margin: 0px 10px;
+}
+
+.helvetica {
+  font-family: Helvetica;
+}
+
+.bold {
+  font-weight: bold;
+}
+.header {
+  font-size: 100px;
+  color: khaki;
+  text-align: center;
+  background-image: url(https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg);
+  margin: 70px 0px;
+}
+
+.titleItems {
+  font-size: 32px;
+  color: white;
+  font-family: Helvetica;
+  font-weight: bold;
+  margin-top: 10px;
+}
+.brushesTitle {
+  background-color: mediumspringgreen;
+}
+
+.price {
+  font-family: Helvetica;
+  font-weight: bold;
+  color: blue;
+}
+img {
+  margin: 20px 0px;
+}
+
+.articleTitle {
+  font-size: 20px;
+}
+.framesTitle {
+  background-color: red;
+}
+.paintTitle {
+  background-color: blue;
+}
